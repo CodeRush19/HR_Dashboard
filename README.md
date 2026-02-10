@@ -16,7 +16,7 @@ Built an interactive HR Analytics dashboard in Power BI to analyze employee attr
 - Salary slab up to 5k shows highest attrition
 
 ## 🖼 Dashboard Preview
-![Dashboard](HR_Dashboard.PNG)
+![Dashboard](https://github.com/CodeRush19/HR_Dashboard/blob/main/Hr_Dashboard.PNG)
 
 ## 📁 Files
 - HR_Dashboard.pbix → Main Power BI file
